@@ -55,4 +55,4 @@ Il permet de démarrer rapidement une API Python moderne, portable et facile à 
 
 ## Auteur
 
-Pape
+Pape Ndao 
